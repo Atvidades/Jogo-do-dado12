@@ -1,0 +1,39 @@
+C:\Users\ifsp\Desktop\dado\dado\bin\Debug\dado.exe
+C:\Users\ifsp\Desktop\dado\dado\bin\Debug\dado.pdb
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\dado.Form1.resources
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\dado.Properties.Resources.resources
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\dado.exe
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\dado.pdb
+C:\Users\ifsp\Desktop\dado\dado\obj\x86\Debug\dado.Form2.resources
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\obj\x86\Debug\dado.exe
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\obj\x86\Debug\dado.pdb
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\obj\x86\Debug\dado.Form1.resources
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\obj\x86\Debug\dado.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\bin\Debug\dado.exe
+C:\Documents and Settings\Usuario\Desktop\Jogo do Dado\dado\dado\bin\Debug\dado.pdb
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.exe
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.pdb
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\bin\Debug\dado.exe
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\bin\Debug\dado.pdb
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.Form1.resources
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.Properties.Resources.resources
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.exe
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.pdb
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\bin\Debug\dado.exe
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\bin\Debug\dado.pdb
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.Form1.resources
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.Properties.Resources.resources
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.exe
+G:\3° Módulo\PJS\Jogo do Dado\dado\dado\obj\x86\Debug\dado.pdb
